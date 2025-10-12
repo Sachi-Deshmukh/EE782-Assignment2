@@ -1,1 +1,1 @@
-
+The link for the video demonstrating the implementation of Automatic Speech Recognition (ASR) for command detection is as follows: https://drive.google.com/file/d/1CI7gw2VpQtJvVUYImRwhRQZtexOCnfTw/view?usp=sharing
