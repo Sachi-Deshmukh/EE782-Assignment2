@@ -27,4 +27,6 @@ The agent uses a state-based pipeline:
 4. **Enhancements**:
    - Tracking: Dictionary-based ID assignment with timestamps for multi-face.
    - Alerts: JSON config → SMTP email with snapshot at level 3.
+
+
 Link for video with code explanation and model demonstration: https://drive.google.com/file/d/1-VCyDVmfYQjQGqbmHPCgi07A8X6je-PA/view?usp=sharing
